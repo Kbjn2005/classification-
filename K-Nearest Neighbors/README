@@ -1,0 +1,25 @@
+Algorithm Type
+Supervised Learning → Classification
+
+📊 Data Loaded
+Dataset split into:
+Features X
+Target labels y
+Train-test split applied
+
+⚙️ Mechanism Used
+KNN classifies data based on:
+Distance to nearest K neighbors
+Majority voting
+
+🔧 Parameters Used
+K values tested (odd numbers)
+Euclidean distance metric
+
+📈 Evaluation
+Accuracy score
+Confusion matrix
+
+📤 Output
+Predicted class labels
+Accuracy results
