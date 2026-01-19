@@ -1,0 +1,23 @@
+Algorithm Type
+Supervised Learning → Classification
+
+📊 Data Loaded
+Scaled numerical features
+Labeled target classes
+
+⚙️ Mechanism Used
+Finds optimal hyperplane
+Maximizes margin between classes
+Kernel trick for non-linear separation
+
+🔧 Kernels Used
+Linear
+RBF
+
+📈 Evaluation
+Accuracy
+Confusion matrix
+
+📤 Output
+Support vectors
+Predicted labels
